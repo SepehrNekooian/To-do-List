@@ -1,5 +1,7 @@
 ## 💻 To-Do List
 
+<img width="1024" height="585" alt="Screenshot (69)" src="https://github.com/user-attachments/assets/fe5b6168-1ca8-456e-9854-8a41f5a6ae3f" />
+
 ## 🔗[Demo Project](https://sepehrnekooian.github.io/To-do-List/)
 
 ## 👨‍💻 Developed By: Sepehr Nekooian
